@@ -1,0 +1,24 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "Springboard exercise practice using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimsCode/cat_node.git"
+  },
+  "author": "Prima Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimsCode/cat_node/issues"
+  },
+  "homepage": "https://github.com/PrimsCode/cat_node#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "process": "^0.11.10"
+  }
+}
